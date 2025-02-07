@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-04-02"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = AS8dAAIjcDEwZmNhNDcyYjdiNWE0MDA3OTFmYmNjOGE4MDIwZTQxMHAxMA
+UPSTASH_REDIS_REST_URL = https://stable-sheepdog-12061.upstash.io

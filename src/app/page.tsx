@@ -22,9 +22,14 @@ export default function Home() {
 
   }, [input])
 
-  return(
-    <div>
-      <input type="text" value={input} onChange={(e) => setInput(e.target.value)} />
-    </div>
+  return (
+      <div>
+          <input
+              type="text"
+              value={input}
+              onChange={(e) => setInput(e.target.value)}
+              className="text-zinc-900"
+          />
+      </div>
   );
 }

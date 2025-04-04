@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+![](https://github.com/adrian110288/fastapi-workers-web/blob/master/screen-1.png)
+![](https://github.com/adrian110288/fastapi-workers-web/blob/master/screen-2.png)
+
 ## Getting Started
 
 First, run the development server:
